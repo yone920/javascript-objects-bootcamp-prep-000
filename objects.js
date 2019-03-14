@@ -3,8 +3,8 @@ const playlist = {
   "My Bloody Valentine": "Sometimes"
 }
 
-function updatePlaylist(play, artistName, songTitle) {
-  return play[artistName] = songTitle
+function updatePlaylist(playObject, artistName, songTitle) {
+  return playObject['artistName'] = 'songTitle'
 }
 
 updatePlaylist(playlist, WIll, thankYou )
