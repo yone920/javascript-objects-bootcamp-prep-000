@@ -8,6 +8,6 @@ function updatePlaylist(playObject, artistName, songTitle) {
   return add
 }
 
-updatePlaylist(playlist, Phil Ochs, thankYou )
+updatePlaylist(playlist, "Phil Ochs", "Here's to the State of Mississippi" )
 
 
