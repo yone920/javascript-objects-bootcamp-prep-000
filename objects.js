@@ -16,4 +16,4 @@ function removeFromPlaylist(playObject, artistName) {
   return playObject
 }
 
-updatePlaylist( playlist, "Alison" )
+updatePlaylist( playlist, "Slowdive" )
