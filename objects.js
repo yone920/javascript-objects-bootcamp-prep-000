@@ -10,3 +10,11 @@ function updatePlaylist(object, artistName, songTitle) {
 
 updatePlaylist( playlist, 'Phil Ochs', "Here's to the State of Mississippi")
 
+
+function updatePlaylist(object, artistName) {
+  return Object.assign({}, object, {[artistName]: songTitle})
+}
+
+
+updatePlaylist( playlist, 'Phil Ochs', "Here's to the State of Mississippi")
+
