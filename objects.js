@@ -8,13 +8,5 @@ function updatePlaylist(object, artistName, songTitle) {
 }
 
 
-updatePlaylist( playlist, 'Phil Ochs', "Here's to the State of Mississippi")
 
-
-function removeFromPlaylist(object, artistName) {
-  return delete object.artistName
-}
-
-
-updatePlaylist( playlist, Alison)
 
