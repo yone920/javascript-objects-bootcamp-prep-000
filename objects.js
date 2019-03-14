@@ -16,5 +16,5 @@ function updatePlaylist(object, artistName) {
 }
 
 
-updatePlaylist( playlist, 'Phil Ochs', "Here's to the State of Mississippi")
+updatePlaylist( playlist, Alison, "Here's to the State of Mississippi")
 
