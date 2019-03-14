@@ -1,5 +1,5 @@
 const playlist = {
-  SlowdiveAlison: "",
+  Slowdive: "Alison",
   "My Bloody Valentine": "Sometimes"
 }
 
