@@ -16,4 +16,4 @@ function removeFromPlaylist(playObject, artistName) {
   return playObject
 }
 
-removeFromPlaylist( playlist, "Slowdive" )
+removeFromPlaylist( playlist, Slowdive )
