@@ -4,7 +4,7 @@ const playlist = {
 }
 
 function updatePlaylist(playObject, artistName, songTitle) {
-  playObject[artistName] = 'songTitle'
+  playObject[artistName] = songTitle
   return playObject
 }
 
